@@ -1,6 +1,12 @@
 # LaTeX Code Rapid Generation Tool
 
+[![Get it from Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9P5X00J0X9V7)
+
 A powerful desktop application for quickly generating LaTeX code snippets with a user-friendly graphical interface.
+
+![](Images/Screenshot1.png)
+![](Images/Screenshot2.png)
+![](Images/Screenshot3.png)
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![PySide6](https://img.shields.io/badge/PySide6-6.0+-green.svg)
