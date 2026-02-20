@@ -38,23 +38,6 @@ A powerful desktop application for quickly generating LaTeX code snippets with a
 - **Edit** - Copy Code, Clear All
 - **Help** - About, License (PySide6), LaTeX Resources
 
-## Installation
-
-### Requirements
-- Python 3.8 or higher
-- PySide6
-- PySide6-WebEngine (for equation preview)
-
-### Install Dependencies
-```bash
-pip install PySide6 PySide6-WebEngine
-```
-
-### Run the Application
-```bash
-python "LaTeX Code Rapid Generation Tool.py"
-```
-
 ## Usage
 
 1. **Select Element Type** - Choose from the tabs (Title, Text, Image, etc.)
@@ -101,28 +84,9 @@ The application features a clean, three-column interface:
 - **Middle**: Element list and element code preview
 - **Right**: Generated LaTeX code
 
-## License
-
-This project is licensed under the MIT License.
-
-### PySide6 License
-This application uses PySide6, which is licensed under the GNU Lesser General Public License (LGPL) v3. For more information, see:
-- [Qt Licensing](https://www.qt.io/licensing)
-- [LGPL v3](https://www.gnu.org/licenses/lgpl-3.0.html)
-
 ## Author
 
 **KS.STUDIO**
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## Support
 
